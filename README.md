@@ -6,5 +6,6 @@
 
 
 ![](https://github.com/zhijieeeeee/wechat_ocr/blob/main/screenshot/8cm.jpg)
+(扫码体验)
 
 ![](https://github.com/zhijieeeeee/wechat_ocr/blob/main/screenshot/preview.png)
