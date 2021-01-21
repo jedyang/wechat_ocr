@@ -5,6 +5,6 @@
 
 
 
-![](https://github.com/zhijieeeeee/wechat_ocr/blob/master/screenshot/8cm.ipg)
+![](https://github.com/zhijieeeeee/wechat_ocr/blob/master/screenshot/8cm.jpg)
 
-![](https://github.com/zhijieeeeee/wechat_ocr/blob/master/screenshot/1.jpg)
+![](https://github.com/zhijieeeeee/wechat_ocr/blob/master/screenshot/1.jpeg)
