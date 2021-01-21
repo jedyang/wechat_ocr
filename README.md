@@ -8,3 +8,7 @@
 ![](https://github.com/zhijieeeeee/wechat_ocr/blob/main/screenshot/8cm.jpg)
 
 ![](https://github.com/zhijieeeeee/wechat_ocr/blob/main/screenshot/1.jpeg)
+![](https://github.com/zhijieeeeee/wechat_ocr/blob/main/screenshot/2.jpeg)
+![](https://github.com/zhijieeeeee/wechat_ocr/blob/main/screenshot/3.jpeg)
+![](https://github.com/zhijieeeeee/wechat_ocr/blob/main/screenshot/4.jpeg)
+![](https://github.com/zhijieeeeee/wechat_ocr/blob/main/screenshot/5.jpeg)
