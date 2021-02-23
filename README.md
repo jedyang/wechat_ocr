@@ -7,5 +7,6 @@
 
 ![小程序码](https://github.com/zhijieeeeee/wechat_ocr/blob/main/screenshot/8cm.jpg)
 
-
-![首页](https://github.com/zhijieeeeee/wechat_ocr/blob/main/screenshot/p1.jpeg)![裁剪](https://github.com/zhijieeeeee/wechat_ocr/blob/main/screenshot/p2.jpeg)![批量](https://github.com/zhijieeeeee/wechat_ocr/blob/main/screenshot/p3.jpeg)![结果](https://github.com/zhijieeeeee/wechat_ocr/blob/main/screenshot/p4.jpeg)![历史](https://github.com/zhijieeeeee/wechat_ocr/blob/main/screenshot/p5.jpeg)
+<center class="half">
+    <img src="https://github.com/zhijieeeeee/wechat_ocr/blob/main/screenshot/p1.jpeg" width="200"/><img src="https://github.com/zhijieeeeee/wechat_ocr/blob/main/screenshot/p2.jpeg" width="200"/><img src="https://github.com/zhijieeeeee/wechat_ocr/blob/main/screenshot/p3.jpeg" width="200"/><img src="https://github.com/zhijieeeeee/wechat_ocr/blob/main/screenshot/p4.jpeg" width="200"/><img src="https://github.com/zhijieeeeee/wechat_ocr/blob/main/screenshot/p5.jpeg" width="200"/>
+</center>
