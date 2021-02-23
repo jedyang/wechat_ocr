@@ -5,7 +5,7 @@
 
 ###(扫码下方微信小程序码体验)
 
-![](https://github.com/zhijieeeeee/wechat_ocr/blob/main/screenshot/8cm.jpg)
+![小程序码](https://github.com/zhijieeeeee/wechat_ocr/blob/main/screenshot/8cm.jpg)
 
 
-![](https://github.com/zhijieeeeee/wechat_ocr/blob/main/screenshot/preview.png)
+![首页](https://github.com/zhijieeeeee/wechat_ocr/blob/main/screenshot/p1.jpeg)![裁剪](https://github.com/zhijieeeeee/wechat_ocr/blob/main/screenshot/p2.jpeg)![批量](https://github.com/zhijieeeeee/wechat_ocr/blob/main/screenshot/p3.jpeg)![结果](https://github.com/zhijieeeeee/wechat_ocr/blob/main/screenshot/p4.jpeg)![历史](https://github.com/zhijieeeeee/wechat_ocr/blob/main/screenshot/p5.jpeg)
